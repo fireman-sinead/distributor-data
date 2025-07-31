@@ -6212,9 +6212,9 @@
     "longitude": -81.565836
   },
   {
-    "name": "PLUMBING & IND SUPPLY CO",
-    "address": "5181 SAN FERNANDO RD W",
-    "city": "LOS ANGELES",
+    "name": "Plumbing & Industrial Supply",
+    "address": "5181 W San Fernando Rd",
+    "city": "Los Angeles",
     "state": "CA",
     "zip": "90039",
     "phone": "818-500-0011",
@@ -6222,9 +6222,9 @@
     "longitude": -118.27245330810547
   },
   {
-    "name": "PLUMBERS SPLY CO-EAST END 13",
-    "address": "11167 BLUEGRASS PARKWAY",
-    "city": "LOUISVILLE",
+    "name": "Plumbers Supply Co - East End 13",
+    "address": "11167 Bluegrass Pkwy",
+    "city": "Louisville",
     "state": "KY",
     "zip": "40299",
     "phone": "602-491-6850",
@@ -6232,9 +6232,9 @@
     "longitude": -85.55068969726562
   },
   {
-    "name": "BROOKLYN PLBG SUPPLY CORP",
-    "address": "1747 FLATBUSH AVENUE",
-    "city": "BROOKLYN",
+    "name": "Brooklyn Plumbing & Heating Supply",
+    "address": "1747 Flatbush Ave",
+    "city": "Brooklyn",
     "state": "NY",
     "zip": "11210",
     "phone": "718-252-6800",
@@ -6242,19 +6242,19 @@
     "longitude": -73.94095611572266
   },
   {
-    "name": "F W WEBB COMPANY 37",
-    "address": "500 ELM STREET",
-    "city": "BRIDGEWATER",
+    "name": "F W Webb Company 37",
+    "address": "500 Elm St",
+    "city": "Bridgewater",
     "state": "MA",
-    "zip": "2324",
+    "zip": "02324",
     "phone": "508-580-8310",
     "latitude": 41.9803352355957,
     "longitude": -71.02178955078125
   },
   {
-    "name": "HUGHES SPLY - LAKESIDE 545",
-    "address": "5756 WAGON WHEEL LANE",
-    "city": "LAKESIDE",
+    "name": "Hughes Supply Plumbing - Lakeside 545",
+    "address": "5756 Wagon Wheel Ln",
+    "city": "Lakeside",
     "state": "AZ",
     "zip": "85929",
     "phone": "928-537-5788",
@@ -23031,8 +23031,8 @@
               "state": "ID",
               "zip": "83687",
               "phone": "800-574-4761",
-              "latitude": 3.60331662693048,
-              "longitude": -116.5621084964536
+              "latitude": 43.6030166,
+              "longitude": -116.564869
             },
             {
               "name": "Core & Main LP",
