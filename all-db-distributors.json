@@ -8698,11 +8698,13 @@
       "longitude": -70.949509
     },
     {
-      "name": "Ferguson-Sharonville 541",
+      "name": "Ferguson - Sharonville 541",
       "address": "3001 E Kemper Road",
       "city": "Sharonville",
       "state": "OH",
-      "zip": "45241"
+      "zip": "45241",
+      "latitude": 39.2829976,
+      "longitude": -84.4236164
     },
     {
       "name": "Crogan Plumbing & Heating Supplies",
@@ -11643,14 +11645,18 @@
               "city": "Seattle",
               "state": "WA",
               "zip": "98119",
-              "phone": "206-285-3300"
+              "phone": "206-285-3300",
+              "latitude": 47.6487929,
+              "longitude": -122.3824725
             },
             {
               "name": "Chadwell Supply - Austin",
               "address": "100 Velocity Drive",
               "city": "Georgetown",
               "state": "TX",
-              "zip": "78628"
+              "zip": "78628",
+              "latitude": 30.6847704,
+              "longitude": -97.6695877
             },
             {
               "name": "Ferguson-Santa Ana 1461",
@@ -12292,7 +12298,9 @@
               "address": "72 East Hillis Street",
               "city": "Youngwood",
               "state": "PA",
-              "zip": "15697"
+              "zip": "15697",
+              "latitude": 40.2328918,
+              "longitude": -79.5788978
             },
             {
               "name": "Linden Blvd Plumbing Supplies",
@@ -16045,11 +16053,13 @@
               "longitude": -84.08315
             },
             {
-              "name": "Ferguson-Cookeville 1965",
+              "name": "Ferguson - Cookeville 1965",
               "address": "1191 S Jefferson Ave",
               "city": "Cookeville",
               "state": "TN",
-              "zip": "38506"
+              "zip": "38506",
+              "latitude": 36.1306356,
+              "longitude": -85.508601
             },
             {
               "name": "Center Hardware Co",
@@ -16062,7 +16072,7 @@
               "longitude": -122.39033
             },
             {
-              "name": "Ferguson-Danville 535",
+              "name": "Ferguson - Danville 535",
               "address": "221 Industrial Ave",
               "city": "Danville",
               "state": "VA",
@@ -16102,14 +16112,7 @@
               "longitude": -83.71336
             },
             {
-              "name": "Ferguson-Hiawatha 520",
-              "address": "775 Kacena Road",
-              "city": "Hiawatha",
-              "state": "IA",
-              "zip": "52233"
-            },
-            {
-              "name": "Gorman Co-Clearwater 274",
+              "name": "Gorman Co - Clearwater 274",
               "address": "1310 N Hercules Ave",
               "city": "Clearwater",
               "state": "FL",
@@ -19205,7 +19208,7 @@
               "zip": "50305",
               "phone": "515-262-9611",
               "latitude": 41.65444686046491,
-              "Longitude": -93.595759425562
+              "longitude": -93.595759425562
             },
             {
               "name": "WinWholesale Payable Service Center",
@@ -21189,7 +21192,7 @@
               "state": "SD",
               "zip": "57042",
               "phone": "605-256-6522",
-              "Latitude": 44.001852270301654,
+              "latitude": 44.001852270301654,
               "longitude": -97.1143002603034
             },
             {
@@ -22715,7 +22718,7 @@
               "zip": "30528",
               "phone": "706-865-2928",
               "latitude": 34.59365791289412,
-              "Longitude": -83.75068411739359
+              "longitude": -83.75068411739359
             },
             {
               "name": "Coburn's - Jasper",
@@ -23091,7 +23094,7 @@
               "state": "VA",
               "zip": "20109",
               "latitude": 38.78655427722112,
-              "Longitude": -77.5645452780339
+              "longitude": -77.5645452780339
             },
             {
               "name": "Ferguson - Fairbanks",
@@ -23475,11 +23478,11 @@
               "zip": "90605",
               "phone": "562-946-1546",
               "latitude": 33.947196279650186,
-              "Longitude": -118.05042959684633
+              "longitude": -118.05042959684633
             },
             {
-              "name": "Reece Plumbing C1172 - Express Pipe & Supply",
-              "address": "11244 A Playa Court",
+              "name": "Reece Plumbing C1172",
+              "address": "11244 Playa Ct A",
               "city": "Culver City",
               "state": "CA",
               "zip": "90230",
